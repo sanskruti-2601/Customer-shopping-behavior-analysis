@@ -83,7 +83,7 @@ feature engineering behind it is in
 
 ## Tech Stack
 
-Python (pandas) · SQL (PostgreSQL/MySQL/MS SQL Server) · Power BI
+Python (pandas) · SQL (PostgreSQL Server) · Power BI
 
 ## Dataset
 
